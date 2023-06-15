@@ -16,5 +16,17 @@
             "director": "Aaron Horvath",
             "foto": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/05/Super-Mario-Bros-la-pelicula-ya-es-la-mas-taquillera-de-la-historia-en-Mexico.jpg"
         }    
+    ], "videojuego" : [
+        {
+            "id": "1",
+            "nombre": "Animal Crossing",
+            "director": "Charles Lee Ray",
+            "foto": "https://upload.wikimedia.org/wikipedia/en/1/13/Animal_Crossing_Characters.png"
+        }, {
+            "id": "2",
+            "nombre": "Candy Crush",
+            "director": "Matt Reeves",
+            "foto": "https://m.media-amazon.com/images/I/81u6jGIbTBL.jpg"
+        } 
     ]
 }
