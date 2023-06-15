@@ -1,0 +1,20 @@
+{
+    "pelicula": [
+        {
+            "id": "1",
+            "nombre": "Chucky",
+            "director": "Charles Lee Ray",
+            "foto": "https://i.ytimg.com/vi/4Pc1j-LlPjY/maxresdefault.jpg"
+        }, {
+            "id": "2",
+            "nombre": "Batman",
+            "director": "Matt Reeves",
+            "foto": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The-batman-20226065.jpg"
+        }, {
+            "id": "3",
+            "nombre": "Mario Bros",
+            "director": "Aaron Horvath",
+            "foto": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2023/05/Super-Mario-Bros-la-pelicula-ya-es-la-mas-taquillera-de-la-historia-en-Mexico.jpg"
+        }    
+    ]
+}
